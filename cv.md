@@ -1,7 +1,9 @@
 # my cv
 
 **evgeny salash**
+
 _@toxeezy_
+
 design engineer
 
 - solidworks
@@ -9,4 +11,5 @@ design engineer
   - electric
 - creo parametric
 - altium designer
+
   bsuir 21'
